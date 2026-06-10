@@ -13,7 +13,7 @@ import urllib.request
 log = logging.getLogger(__name__)
 
 # ── CẤU HÌNH ────────────────────────────────────────────────────
-VERCEL_BASE_URL = "https://hongnhung.vercel.app"
+VERCEL_BASE_URL = "https://hongnhung-azure.vercel.app"
 # ────────────────────────────────────────────────────────────────
 
 _CACHE: dict = {}
